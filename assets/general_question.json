@@ -1,0 +1,116 @@
+
+  {
+    "questions": [
+
+    {
+      "question": "Which of these is a conditional statement?",
+      "answers": [
+        "When the green flag is clicked, turn 15 degrees",
+        "Forever move 11 steps",
+        "If i snap my fingers",
+        "Repeat 10 times"
+      ],
+      "correctIndex": 2
+    },
+      {
+        "question": "What  is the name for a character in Scratch?",
+        "answers": [
+          "Character",
+          "Sprite",
+          "Scratcher",
+          "Cather"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which of the following is not a menu in Scratch?",
+        "answers": [
+          "Variable",
+          "Go",
+          "Looks",
+          "Motion"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What  is a Sprite called in Scratch?",
+        "answers": [
+          "Musician",
+          "Variable",
+          "Dancer",
+          "Actor"
+        ],
+        "correctIndex": 3
+      },
+    {
+      "question": "Which of the following is not a type of computer programming language?",
+      "answers": [
+        "Coffee",
+        "Java",
+        "Javascript",
+        "Python"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What  is a Variable?",
+      "answers": [
+        "This is a temporary memory space that stores information",
+        "A name assigned to a memory space",
+        "An identifier used to call a data",
+        "A player that jumps"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What  is Computer Code",
+      "answers": [
+        "A group of English words",
+        "A set of rules that tells the computer what to do",
+        "A set of instructions that are made up of words and numbers in the right order",
+        "A step by step way of eliminating problems"
+      ],
+      "correctIndex": 2
+    },
+
+    {
+      "question": "What is the physical part of a computer system?",
+      "answers": [
+        "Software",
+        "Hardware",
+        "Softcopy",
+        "Hardcopy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Function names are always followed by parentheses ",
+      "answers": [
+        "False",
+        "True"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": " _______ is how we write code",
+      "answers": [
+        "Syntax",
+        "Variables",
+        "Loops",
+        "Function"
+      ],
+      "correctIndex": 0
+    },
+    {
+
+      "question": " A computer cannot understand the directions of code even if there is a mistake in the syntax? ",
+      "answers": [
+        "True",
+        "False",
+        "Inbetween",
+        "Both"
+      ],
+      "correctIndex": 0
+    }
+]
+}
